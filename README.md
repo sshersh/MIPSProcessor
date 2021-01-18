@@ -1,6 +1,6 @@
 # MIPSProcessor
 
-## Alexa Jacob, Sam Shersher
+### Alexa Jacob, Sam Shersher
 
 Useful links:
 
