@@ -1,5 +1,7 @@
 # MIPSProcessor
 
+## Alexa Jacob, Sam Shersher
+
 Useful links:
 
 [Online cross-compiler](https://godbolt.org/)
