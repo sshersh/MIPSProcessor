@@ -13,6 +13,8 @@ Useful links:
 
 https://www.eecs.harvard.edu/~cs161/notes/mips-part-I.pdf
 
+Much of the single-cycle processor code was adapted from *Digital Design and Computer Architecture* by Sarah Harris and David Harris, 2007.
+
 # Assignment:
 
 ### Part 1
